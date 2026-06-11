@@ -1,0 +1,20 @@
+cff-version: 1.0.0
+message: "If you use this data, please cite it as below."
+type: dataset
+authors:
+ - family-names: "Jean"
+   given-names: "Alexandra"
+   orcid: "https://orcid.org/0000-0002-6425-4443"
+ - family-names: "Funkhouser"
+   given-names: "Jordan"
+ - family-names: "Fox"
+   given-names: "Rodney"
+   orcid: "https://orcid.org/0000-0003-1944-1861"
+ - family-names: "Brown"
+   given-names: "Robert"
+   orcid: "https://orcid.org/0000-0003-0847-9557"
+title: "Dataset and Code Files for Paper: Predicting Mass Transfer in a Vertical Droplet Array"
+version: 1.0.0
+date-released: 2026-06-11
+url: "https://github.com/abjean-ISU/MassTransferinaDropletArray_2026/"
+abstract: "This repository contains the raw data and analysis scripts used to produce the results in the paper 'Predicting Mass Transfer in a Vertical Droplet Array' (AIChE Journal, 2026)."
