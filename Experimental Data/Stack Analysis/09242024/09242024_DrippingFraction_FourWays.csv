@@ -1,0 +1,5 @@
+"Method","nStacks","drip.vol","drip.num"
+"a. pooled",24,0,0
+"b. equal weight per stack",24,0,0
+"c. center stacks only",8,0,0
+"d. edge stacks only",8,0,0
