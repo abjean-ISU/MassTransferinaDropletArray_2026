@@ -46,7 +46,6 @@ Data Sharing/
 │   ├── SupportingCalculations.R (+ .csv)           Short calculations supporting the reviewer responses
 │   ├── Velocity Analysis/VelocityAnalysis.R (+ CSV outputs)        Droplet velocity / acceleration from tracked drops
 │   └── Aspect Ratio Analysis/AspectRatioAnalysis.R (+ CSV outputs) Droplet shape oscillation
-└── _Previous version (June 2026)/      Snapshot of this folder before the revision update
 ```
 
 ## Workflow
