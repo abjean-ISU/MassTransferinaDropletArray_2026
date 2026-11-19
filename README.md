@@ -73,5 +73,3 @@ Data Sharing/
   stack files were updated.
 - `DataProcessingCodeShare.R` updated to the revised analysis (instrument uncertainty, model uncertainty, 10272026 results).
 - New: `Supporting Analyses/`, 3.0 L/min imaging-rig data (`Stack Analysis/09232024`).
-
-The previous files are kept in `_Previous version (June 2026)/`.
